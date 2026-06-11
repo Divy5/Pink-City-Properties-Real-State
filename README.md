@@ -137,7 +137,7 @@ Pink City Properties is more than a property listing website—it's a complete r
 New features, performance improvements, and advanced real estate tools are continuously being added to enhance the platform experience.
 
 # Demo
-* Link: https://pink-city-properties-real-state.netlify.app/buy
+* Link: https://pink-city-properties-real-state.netlify.app
 
 * Preview:
 
